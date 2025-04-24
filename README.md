@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://gemvogue.fr" target="_blank"><img src="https://github.com/salahedarhri/gemvogue-jewelry-store/blob/main/GV%20banner.jpg" width="800" alt="GV Logo"></a></p>
 
 # 💍 GemVogue
@@ -27,3 +28,6 @@ GemVogue is an E-commerce website project for selling jewellery. using Laravel, 
 <img src="https://github.com/salahedarhri/gemvogue-jewelry-store/blob/main/newsletter.JPG" width="100%" alt="GV Admin Dashboard">
 <img src="https://github.com/salahedarhri/gemvogue-jewelry-store/blob/main/modifier-newsletter.JPG" width="100%" alt="GV Admin Dashboard">
 <img src="https://github.com/salahedarhri/gemvogue-jewelry-store/blob/main/succes.JPG" width="100%" alt="GV Admin Dashboard">
+=======
+# jewelry-store
+>>>>>>> b37d4565601e26356c315d319c4d9f1944c40f16
